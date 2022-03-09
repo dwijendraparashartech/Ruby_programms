@@ -1,5 +1,4 @@
-# Ruby program to calculate the
-# volume and area of Cylinder
+# Ruby program to calculate the volume and area of Cylinder
 
 radius=0.0;
 height=0.0;

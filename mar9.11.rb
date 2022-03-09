@@ -1,5 +1,4 @@
-# Ruby program to calculate the 
-# volume and area of Sphere
+# Ruby program to calculate the  volume and area of Sphere
 
 radius=0.0;
 

@@ -1,5 +1,4 @@
-# Ruby program to calculate the 
-# volume, diagonal, and area of Cuboids
+# Ruby program to calculate the  volume, diagonal, and area of Cuboids
 
 length=0.0;
 height=0.0;
